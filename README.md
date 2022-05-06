@@ -1,4 +1,4 @@
-# Fourth project - Video game project! <br>
+# Fourth project - Video game project! 👾 <br>
 # WHAT 🎮 <br>
 My fourth project is a group project where we were introduced to the JavaScript framework Phaser.js. and thus using it in order to create a video game for a gaming exhibition as part of presentation. This project was made during 17/11 to 3/12 <br>
 We had two and a half week to come up with an idea for a game, design, develop and test it out. <br>
